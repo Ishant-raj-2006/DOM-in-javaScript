@@ -1,0 +1,12 @@
+html, body{
+    height: 100px;
+    width: 100px;
+}
+nav{
+    display: flex;
+    background: yellowgreen;
+}
+nav li{
+    list-style: none;
+    padding: 0 23px;
+}
